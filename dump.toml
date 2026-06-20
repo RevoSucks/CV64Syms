@@ -501,7 +501,7 @@ functions = [
     { name = "func_80047218_47E18", vram = 0x80047218, size = 0x5C },
     { name = "func_80044C20_45820", vram = 0x80044C20, size = 0x48 },
     { name = "func_8000CB50_D750", vram = 0x8000CB50, size = 0x100 },
-    { name = "main", vram = 0x80014FA0, size = 0x5C },
+    { name = "main_game", vram = 0x80014FA0, size = 0x5C },
     { name = "shadow_create", vram = 0x80061280, size = 0x124 },
     { name = "sqrtf", vram = 0x80088C40, size = 0x8 },
     { name = "func_8005CFB8_5DBB8", vram = 0x8005CFB8, size = 0x10 },

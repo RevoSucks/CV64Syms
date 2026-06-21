@@ -6090,7 +6090,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_A7C0FE"
+name = ".ni_ovl_A7C0FE"
 rom = 0x00D25CA0
 vram = 0x0F000000
 size = 0xCD0
@@ -6106,7 +6106,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_A7C8C4"
+name = ".ni_ovl_A7C8C4"
 rom = 0x00D26970
 vram = 0x0F000000
 size = 0x1830
@@ -6130,7 +6130,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_A7D81A"
+name = ".ni_ovl_A7D81A"
 rom = 0x00D281A0
 vram = 0x0F000000
 size = 0x460
@@ -6145,7 +6145,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_A7DBB0"
+name = ".ni_ovl_A7DBB0"
 rom = 0x00D28600
 vram = 0x0F000000
 size = 0x9E0
@@ -6161,7 +6161,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_A7E2DA"
+name = ".ni_ovl_A7E2DA"
 rom = 0x00D28FE0
 vram = 0x0F000000
 size = 0x2C0
@@ -6679,7 +6679,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_AB029E"
+name = ".ni_ovl_AB029E"
 rom = 0x00D6F6D0
 vram = 0x0F000000
 size = 0x15D0
@@ -6713,7 +6713,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_AB10D4"
+name = ".ni_ovl_AB10D4"
 rom = 0x00D70CA0
 vram = 0x0F000000
 size = 0x7440
@@ -6963,7 +6963,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_AD7B28"
+name = ".ni_ovl_AD7B28"
 rom = 0x00DA6B70
 vram = 0x0F000000
 size = 0xB120
@@ -7064,7 +7064,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_AE04FC"
+name = ".ni_ovl_AE04FC"
 rom = 0x00DB1C90
 vram = 0x0F000000
 size = 0x7560
@@ -7249,7 +7249,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_AF1332"
+name = ".ni_ovl_AF1332"
 rom = 0x00DCA500
 vram = 0x0F000000
 size = 0x3B70
@@ -7603,7 +7603,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_B175D4"
+name = ".ni_ovl_B175D4"
 rom = 0x00E00200
 vram = 0x0F000000
 size = 0x5400
@@ -8053,7 +8053,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_B3A734"
+name = ".ni_ovl_B3A734"
 rom = 0x00E2EB00
 vram = 0x0F000000
 size = 0xAAE0
@@ -8137,7 +8137,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_B42D50"
+name = ".ni_ovl_B42D50"
 rom = 0x00E395E0
 vram = 0x0F000000
 size = 0x1FD0
@@ -8162,7 +8162,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_B44694"
+name = ".ni_ovl_B44694"
 rom = 0x00E3B5B0
 vram = 0x0F000000
 size = 0x4B0
@@ -8175,7 +8175,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_B449CE"
+name = ".ni_ovl_B449CE"
 rom = 0x00E3BA60
 vram = 0x0F000000
 size = 0x32F0
@@ -8206,7 +8206,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_B47542"
+name = ".ni_ovl_B47542"
 rom = 0x00E3ED50
 vram = 0x0F000000
 size = 0x1330
@@ -8237,7 +8237,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_gondola_pathway_data_loader"
+name = ".ni_ovl_gondola_pathway_data_loader"
 rom = 0x00E40A30
 vram = 0x0F000000
 size = 0xD2D0
@@ -8272,7 +8272,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_B50812"
+name = ".ni_ovl_B50812"
 rom = 0x00E4F320
 vram = 0x0F000000
 size = 0x16A0
@@ -8301,7 +8301,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_B5140E"
+name = ".ni_ovl_B5140E"
 rom = 0x00E509C0
 vram = 0x0F000000
 size = 0x380
@@ -8343,7 +8343,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_B528BA"
+name = ".ni_ovl_B528BA"
 rom = 0x00E52700
 vram = 0x0F000000
 size = 0x510
@@ -8357,7 +8357,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_B52BE4"
+name = ".ni_ovl_B52BE4"
 rom = 0x00E52C10
 vram = 0x0F000000
 size = 0x500
@@ -8484,7 +8484,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_B59058"
+name = ".ni_ovl_B59058"
 rom = 0x00E5CF30
 vram = 0x0F000000
 size = 0x5A0
@@ -8563,7 +8563,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_B5B5D0"
+name = ".ni_ovl_B5B5D0"
 rom = 0x00E60DB0
 vram = 0x0F000000
 size = 0x4F0
@@ -8702,7 +8702,7 @@ functions = [
 ]
 
 [[section]]
-name = ".ni_explosive_wall_spot"
+name = ".ni_ovl_explosive_wall_spot"
 rom = 0x00E63E10
 vram = 0x0E000000
 size = 0xBD0

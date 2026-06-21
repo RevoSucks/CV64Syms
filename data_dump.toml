@@ -2566,6 +2566,7 @@ symbols = [
     { name = "D_80092FF0_93BF0", vram = 0x80092FF0 },
     { name = "D_80093004_93C04", vram = 0x80093004 },
     { name = "D_80093004_93C04.NON_MATCHING", vram = 0x80093004 },
+    { name = "D_8009342C_9402C", vram = 0x8009342C },
     { name = "D_80093018_93C18", vram = 0x80093018 },
     { name = "D_80093018_93C18.NON_MATCHING", vram = 0x80093018 },
     { name = "D_8009302C_93C2C", vram = 0x8009302C },

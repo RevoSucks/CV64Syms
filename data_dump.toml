@@ -6793,6 +6793,7 @@ symbols = [
     { name = "func_801561DC_D93CC.NON_MATCHING", vram = 0x801561DC },
     { name = "func_8015623C_D942C.NON_MATCHING", vram = 0x8015623C },
     { name = "func_80156264_D9454.NON_MATCHING", vram = 0x80156264 },
+    { name = "func_8015628C_D947C.NON_MATCHING", vram = 0x8015628C },
     { name = "func_80156294_D9484.NON_MATCHING", vram = 0x80156294 },
     { name = "loadingZone_entrypoint.NON_MATCHING", vram = 0x801562C0 },
     { name = "loadingZone_init.NON_MATCHING", vram = 0x80156330 },

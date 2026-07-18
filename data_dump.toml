@@ -151,7 +151,7 @@ symbols = [
     { name = "NisitenmaIchigo_removeLoadedFile.NON_MATCHING", vram = 0x800041CC },
     { name = "func_800041F8_4DF8.NON_MATCHING", vram = 0x800041F8 },
     { name = "atan2s.NON_MATCHING", vram = 0x80004220 },
-    { name = "atan2f.NON_MATCHING", vram = 0x80004394 },
+    { name = "atan2f_recomp.NON_MATCHING", vram = 0x80004394 },
     { name = "fig_isValid.NON_MATCHING", vram = 0x800043E0 },
     { name = "fig_destroySelfAndChildren_1.NON_MATCHING", vram = 0x80004408 },
     { name = "figure_destroySelfAndChildren_2.NON_MATCHING", vram = 0x800045B8 },

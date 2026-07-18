@@ -65,7 +65,7 @@ functions = [
     { name = "func_8000B314_BF14", vram = 0x8000B314, size = 0xF8 },
     { name = "vec3f_magnitude", vram = 0x80011400, size = 0x40 },
     { name = "func_8005AC50_5B850", vram = 0x8005AC50, size = 0x34 },
-    { name = "atan2f", vram = 0x80004394, size = 0x44 },
+    { name = "atan2f_recomp", vram = 0x80004394, size = 0x44 },
     { name = "func_8001C918_1D518", vram = 0x8001C918, size = 0x220 },
     { name = "func_80073484_74084", vram = 0x80073484, size = 0x58 },
     { name = "func_8000D7DC_E3DC", vram = 0x8000D7DC, size = 0xE0 },
